@@ -32,7 +32,7 @@ Constantly seeking to improve myself. Currently undergoing a career change from 
   - Stationed Dushanbe, Tajikistan 2017 - 2018
 - Started Undergraduate CS degree at UTSA 2018
 - Transferred to Master's in Cybersecurity Fall 2020
-  - Started Graduate Certificate in National Security
+  - Started Graduate Certificate in National Security Fall 2020
  
 ### Contact me
 
