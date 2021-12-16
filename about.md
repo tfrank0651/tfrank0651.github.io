@@ -16,6 +16,9 @@ Constantly seeking to improve myself. Currently undergoing a career change from 
 - Java
 - Blue Teaming
   - Competed for UTSA in CCDC 2021 (SW Regionals)
+- Security
+  - [Security Now](https://www.grc.com/securitynow.htm)
+  - [Darknet Diaries](https://darknetdiaries.com/)
 - Fitness
   - Running
   - Powerlifting
