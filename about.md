@@ -4,12 +4,36 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Born in Eastern Washington, graduate college (Kinesiology), enlisted in the Marine Corps (0651/0659/8156), current graduate student (Cybersecurity/National Security).
 
-### More Information
+### Whoami
 
-A place to include any other types of information that you'd like to include about yourself.
+Constantly seeking to improve myself. Currently undergoing a career change from Health and Fitness to Cybersecurity. This webpage is to document my personal growth and my personal hobbies.
 
+### Interests
+- C
+- Python
+- Java
+- Blue Teaming
+  -Competed for UTSA in CCDC 2021 (SW Regionals)
+- Fitness
+  - Running
+  - Powerlifting
+  - Strongman
+
+### A Brief History
+- Graduated High School 2007
+- Graduate College 2011
+- Marine Corps Communications School 2012
+- Stationed Cherry Point, NC 2013 - 2015
+- Marine Corps Embassy Security Guard School 2015
+  - Stationed Chisinau, Moldova 2015 - 2016
+  - Stationed Karachi, Pakistan 2016 - 2017
+  - Stationed Dushanbe, Tajikistan 2017 - 2018
+- Started Undergraduate CS degree at UTSA 2018
+- Transferred to Master's in Cybersecurity Fall 2020
+  - Started Graduate Certificate in National Security
+ 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tfrank0651@gmail.com](mailto:email@domain.com)
