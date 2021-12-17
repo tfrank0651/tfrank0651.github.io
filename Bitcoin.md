@@ -3,7 +3,7 @@ layout: page
 title: Bitcoin Paper
 permalink: /papers/BTC/
 ---
-![](https://github.com/tfrank0651/tfrank0651.github.io/blob/19abe48bfe55a0329d02b378286851749f2b9fb3/papers/BTC_p1.png)
+![](papers/BTC_p1.png)
 ![](https://github.com/tfrank0651/tfrank0651.github.io/blob/19abe48bfe55a0329d02b378286851749f2b9fb3/papers/BTC_p2.png)
 ![](https://github.com/tfrank0651/tfrank0651.github.io/blob/19abe48bfe55a0329d02b378286851749f2b9fb3/papers/BTC_p3.png)
 ![](https://github.com/tfrank0651/tfrank0651.github.io/blob/19abe48bfe55a0329d02b378286851749f2b9fb3/papers/BTC_p4.png)
