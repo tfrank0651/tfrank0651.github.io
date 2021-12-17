@@ -21,6 +21,7 @@ Constantly seeking to improve myself. Currently undergoing a career change from 
   - [Darknet Diaries](https://darknetdiaries.com/)
 - Fitness
   - Running
+    ![](/images/MarineCorpsMarathon.PNG)
   - Powerlifting
   - Strongman
 
