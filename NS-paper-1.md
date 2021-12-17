@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Strategic Cyber Policy Recommendations Report for Congress
 permalink: /papers/NS/1/
 ---
 <p align="center"><b>Strategic Cyber Policy Recommendations Report for Congress</b></p>
