@@ -15,4 +15,4 @@ permalink: /papers/
 
 ## Intelligence Studies Papers
 
-#### Strategic Cyber Policy Recommendations
+#### Strategic Cyber Policy Recommendations 
