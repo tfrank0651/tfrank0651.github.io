@@ -6,9 +6,16 @@ permalink: /papers/
 
 ## Research Reviews
 
-#### [Partitioning Attacks in Bitcoin](https://drive.google.com/file/d/1FyVm5Il2MOnVD9ICBOBZzcQhd3Fah6FY/view?usp=sharing)
+#### [Partitioning Attacks in Bitcoin](https://drive.google.com/file/d/1EWYSZvHyx2KhLUZWkyZPrPn98_9_vY_P/view?usp=sharing)
 - CS 6393 - Cryptocurrencies and Bitcoin
 - A review of the literature on partitioning attacks in the Bitcoin Protocol.
+  - Author contributions.
+  - Study limitations.
+  - Suggested areas for future research.
+
+#### [An Analysis of Studies on Attacks on Smart Home Devices Using the ZigBee, WiFi, and BLE Protocols](https://drive.google.com/file/d/1xeoe8On5dyQbtXZ3Eccfr4a5J4qM7z2E/view?usp=sharing)
+- CS 5323 - Principles of Cyber Security
+- A review of the literature on Attacks on Smart Home Devices Using the ZigBee, WiFi, and BLE Protocols.
   - Author contributions.
   - Study limitations.
   - Suggested areas for future research.
