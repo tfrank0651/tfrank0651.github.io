@@ -4,4 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-## Currently Under Construction...
+## [Wordlist Creation](https://github.com/tfrank0651/Wordlist_Creation)
+This is a collection of various tools I have written to create wordlists.
+- numlist.py: creates all possible numeric permutations of the specified length
