@@ -6,13 +6,13 @@ permalink: /papers/
 
 ## Research Reviews
 
-#### [Partitioning Attacks in Bitcoin](https://tfrank0651.github.io/papers/BTC/)
+#### [Partitioning Attacks in Bitcoin](https://drive.google.com/file/d/1FyVm5Il2MOnVD9ICBOBZzcQhd3Fah6FY/view?usp=sharing)
 - CS 6393 - Cryptocurrencies and Bitcoin
 - A review of the literature on partitioning attacks in the Bitcoin Protocol.
   - Author contributions.
   - Study limitations.
   - Suggested areas for future research.
-- Paper can be downloaded [here](https://drive.google.com/file/d/1FyVm5Il2MOnVD9ICBOBZzcQhd3Fah6FY/view?usp=sharing)
+
 
 ## Intelligence Studies Papers
 
