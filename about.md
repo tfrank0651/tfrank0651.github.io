@@ -6,7 +6,7 @@ permalink: /about/
 
 Born in Eastern Washington, graduated college (Kinesiology), enlisted in the Marine Corps (0651/0659/8156), current graduate student (Cybersecurity/Intelligence Studies).
 
-### Whoami
+### \$ whoami
 
 Constantly seeking to improve myself. Currently undergoing a career change from Health and Fitness to Cybersecurity. This webpage is to document my personal growth and my personal hobbies.
 
