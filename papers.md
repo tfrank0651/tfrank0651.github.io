@@ -13,6 +13,8 @@ These reviews examine the literature on a specific topic within cyber security a
 #### [An Analysis of Studies on Attacks on Smart Home Devices Using the ZigBee, WiFi, and BLE Protocols](https://drive.google.com/file/d/1xeoe8On5dyQbtXZ3Eccfr4a5J4qM7z2E/view?usp=sharing)
 - CS 5323 - Principles of Cyber Security
 
+#### [Attacks On IoT PowerPoint](https://docs.google.com/presentation/d/1U2VufWwqoMZZO_nU6H6dcqPyCohpIfVd/edit?usp=sharing&ouid=105462055351338150980&rtpof=true&sd=true)
+
 ## Intelligence Studies Papers
 
 #### [Strategic Cyber Policy Recommendations for Congress](https://tfrank0651.github.io/papers/NS/1/)
