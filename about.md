@@ -40,6 +40,7 @@ Constantly seeking to improve myself. Currently undergoing a career change from 
 - Started Undergraduate CS degree at UTSA 2018
 - Transferred to Master's in Cybersecurity Fall 2020
   - Started Graduate Certificate in Intelligence Studies Fall 2020
+- Graduated with Master's in Cybersecurity and Graduate Cert in May 2022.
  
 ### Contact me
 
