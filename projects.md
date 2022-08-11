@@ -3,6 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+# AI Projects
 ## [Chess AI (MinMax vs Random)](https://colab.research.google.com/drive/1jq7Ur6EGqN6bNQ9ytXGtnf4FSGfIpwPD)
 This program consists of two algorithms for selecting chess moves. The first algorithm randomly selects a valid move, while the second uses MinMax.
 
@@ -15,6 +16,10 @@ This project uses a CNN to evaluate the CIFAR-100 dataset (object/Image classifi
 ## [Graphs: Uninformed vs Informed Search](https://colab.research.google.com/drive/1MpsRwayXhSvUhW9MVJX8YctMEGxyIkmb?usp=sharing)
 This project compares Bredth First Search (uninformed) to A* (informed/heuristic).
 
+# Network Projects
+## [TCP Flow Control in a Modified Web Client](https://github.com/tfrank0651/BasicWebClient)
+
+# Other Projects
 ## [Wordlist Creation](https://github.com/tfrank0651/Wordlist_Creation)
 This is a collection of various tools I have written to create wordlists.
 - numlist.py: creates all possible numeric permutations of the specified length
