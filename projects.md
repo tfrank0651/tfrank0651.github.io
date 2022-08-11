@@ -12,6 +12,9 @@ This project compares two different binary classification models (SGD and ID3 DT
 ## [Convolutional Neural Network and Recurrent Neural Networks](https://colab.research.google.com/drive/1_3ZlE0ayoA8yNihjkYcQNT_eEnIb_zV-?usp=sharing)
 This project uses a CNN to evaluate the CIFAR-100 dataset (object/Image classification) and a RNN for Natural Language Processing (NLP) using the Reuters newswire classification dataset.
 
+## [Graphs: Uninformed vs Informed Search](https://colab.research.google.com/drive/1MpsRwayXhSvUhW9MVJX8YctMEGxyIkmb?usp=sharing)
+This project compares Bredth First Search (uninformed) to A* (informed/heuristic).
+
 ## [Wordlist Creation](https://github.com/tfrank0651/Wordlist_Creation)
 This is a collection of various tools I have written to create wordlists.
 - numlist.py: creates all possible numeric permutations of the specified length
