@@ -28,3 +28,6 @@ This program demonstrates a custom 'ping' using the ICMP protocol.
 This is a collection of various tools I have written to create wordlists.
 - numlist.py: creates all possible numeric permutations of the specified length
 - hex_keys.py: creates all possible 64 bit hex keys
+
+## [ScroogeCoin](https://github.com/tfrank0651/scroogecoin)
+A project where I wrote the transaction handler for the fictional cryptocurrency ScroogeCoin.
