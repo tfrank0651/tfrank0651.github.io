@@ -18,8 +18,10 @@ This project compares Bredth First Search (uninformed) to A* (informed/heuristic
 
 # Network Projects
 ## [TCP Flow Control in a Modified Web Client](https://github.com/tfrank0651/BasicWebClient)
+This program is a basic web client that is modified to demonstrate TCP flow control.
 
 ## [Custom Ping Using ICMP](https://github.com/tfrank0651/CustomPing)
+This program demonstrates a custom 'ping' using the ICMP protocol.
 
 # Other Projects
 ## [Wordlist Creation](https://github.com/tfrank0651/Wordlist_Creation)
