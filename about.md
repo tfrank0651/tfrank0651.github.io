@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Born in Eastern Washington, graduated college (Kinesiology), enlisted in the Marine Corps (0651/0659/8156), current graduate student (Cybersecurity/Intelligence Studies).
+Born in Eastern Washington, graduated college (Kinesiology), enlisted in the Marine Corps (0651/0659/8156), MS Cybersecurity + Graduate Cert in Intelligence Studies.
 
 ### \$ whoami
 
