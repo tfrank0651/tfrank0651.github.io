@@ -37,7 +37,8 @@ Constantly seeking to improve myself. Currently undergoing a career change from 
   - Stationed Karachi, Pakistan 2016 - 2017
   - Stationed Dushanbe, Tajikistan 2017 - 2018
     - Promoted to the rank of Staff Sergeant
-- EAS'd and Started Undergraduate CS degree at UTSA 2018
+- Honorable Discharge from USMC 
+- Started Undergraduate CS degree at UTSA 2018
 - Transferred to Master's in Cybersecurity Fall 2020
   - Started Graduate Certificate in Intelligence Studies Fall 2020
 - Graduated with Master's in Cybersecurity and Graduate Cert in May 2022.
