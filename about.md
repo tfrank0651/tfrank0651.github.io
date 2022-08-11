@@ -31,11 +31,12 @@ Constantly seeking to improve myself. Currently undergoing a career change from 
 - Marine Corps Communications School 2012
 - Stationed Cherry Point, NC 2013 - 2015
   - Received Navy And Marine Corps Achievement Medal
+  - Promoted to the rank of Sergeant
 - Marine Corps Embassy Security Guard School 2015
   - Stationed Chisinau, Moldova 2015 - 2016
   - Stationed Karachi, Pakistan 2016 - 2017
   - Stationed Dushanbe, Tajikistan 2017 - 2018
-   - Promoted to the rank of Staff Sergeant
+  -- Promoted to the rank of Staff Sergeant
 - Started Undergraduate CS degree at UTSA 2018
 - Transferred to Master's in Cybersecurity Fall 2020
   - Started Graduate Certificate in Intelligence Studies Fall 2020
