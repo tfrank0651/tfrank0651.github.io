@@ -28,3 +28,6 @@ These reviews examine the literature on a specific topic within cyber security a
 #### [Impact of Bullet-Proof Hosting on National Security](https://drive.google.com/file/d/1t64MYz0JQ5Q878l8FNwxh877nMbkaB4P/view?usp=sharing)
 - NS 6233 - Cyber Tools and Techniques
 
+## Write Ups
+#### [Practical Attack And Defense CTF Write up](https://drive.google.com/file/d/1ZudEUGh6TorXT8nQeESQDnv4Amr_iBVZ/view?usp=sharing)
+#### [Social Engineering Toolkit Lab Write Up](https://drive.google.com/file/d/1qBWfx8nP5khTuaWs-uGKA0Djpqu46fua/view?usp=sharing)
