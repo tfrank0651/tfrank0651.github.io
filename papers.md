@@ -29,5 +29,5 @@ These reviews examine the literature on a specific topic within cyber security a
 - NS 6233 - Cyber Tools and Techniques
 
 ## Write Ups
-#### [Practical Attack And Defense CTF Write up](https://drive.google.com/file/d/1ZudEUGh6TorXT8nQeESQDnv4Amr_iBVZ/view?usp=sharing)
+#### [Practical Attack And Defense CTF Write Up](https://drive.google.com/file/d/1ZudEUGh6TorXT8nQeESQDnv4Amr_iBVZ/view?usp=sharing)
 #### [Social Engineering Toolkit Lab Write Up](https://drive.google.com/file/d/1qBWfx8nP5khTuaWs-uGKA0Djpqu46fua/view?usp=sharing)
